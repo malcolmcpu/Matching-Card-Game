@@ -2,6 +2,8 @@
 
 #### A browser-based memory game built with HTML, CSS, and vanilla JavaScript. Ten face-down cards hide five pairs of emoji (🍒 🏈 🍊 💎 ♣️), shuffled fresh every game. Flip two cards at a time: matches stay face up, and mismatches flip back after a moment. Hit **Reset Game** to reshuffle and play again.
 
+[Try Matching Card Game Here!](https://carddeck-match.netlify.app/)
+
 ## Preview
 
 ![Project Screengrab](./screens/cardmatch-screengrab.png)
